@@ -1,0 +1,6 @@
+URL in github:
+https://github.com/scanax2/SQL2Projekt.git
+
+Autorzy:
+Daniel Parkhanovich 143187
+Ivan Bilunyk 141189
