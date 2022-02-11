@@ -5,5 +5,7 @@
 3) Launch main.py and login into your database profile using your login and password.
 
 Autorzy:
+
 Daniel Parkhanovich 143187
+
 Ivan Bilunyk 141189
