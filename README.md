@@ -1,2 +1,2 @@
 # SQL2Projekt
-SQLNoSQL Projekt - Wirtualny dziekanat
+SQL2 Projekt - Wirtualny dziekanat
