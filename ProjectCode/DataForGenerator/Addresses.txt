@@ -1,0 +1,100 @@
+"29 Ellenborough House, Westway, London",W12 7NA
+"7 Lime Road, Oxford",OX2 9EQ
+"17 Roman Way, Elworth",CW11 3EN
+"Flat 11, Park West Apartments, 40 Tanner Street, London",SE1 3LG
+"2 Sparksfield, Henlow",SG16 6LD
+"Flat 2, Loudoun House, Mill Street, Evesham",WR11 4HT
+"44 Lordship Lane, London",N17 8NS
+"20 Branthill Croft, Solihull",B91 3XB
+"34 Great Norwood Street, Cheltenham",GL50 2BH
+"45 Manor Grove, Leeds",LS7 3LS
+"Pentor, Perrancoombe",TR6 0HZ
+"3 Ferns Meadow, North Leverton",DN22 0DL
+"17 Ackers Drive, Weldon",DA10 1AL
+"Holly Lodge, 2 Leeside, Rusper",RH12 4PQ
+"14 Hollywell Avenue, Codnor",DE5 9SG
+"144 Buxton Road, Furness Vale",SK23 7PH
+"165 Berkeley Court, Wirral",CH49 5NT
+"Leicester House, Llangammarch Wells",LD4 4EA
+"The Sheiling, Church Road, Rotherfield",TN6 3LB
+"18 Wain Park, Berry Brow",HD4 7QX
+"2 Whissendine Way, Syston",LE7 2HL
+"155 North Ninth Street, Milton Keynes",MK9 3AW
+"Unit A389 Western Avenue, Team Valley Trading Estate",NE11 0SZ
+"9 Bailes Place, Beckenham",BR3 1BZ
+"4 Lakeside Gardens, Fairburn",WF11 9NF
+"7 Asher Road, Sheffield",S7 1DA
+"12 Holgate Terrace, Fitzwilliam",WF9 5BU
+"View Lands, Ashmore Green Road, Ashmore Green",RG18 9ES
+"6 Tremelay Drive, Coventry",CV4 9HE
+"9 Turf Cottages, Wolverhampton",WV4 5LA
+"43 Lincoln Grove, Birmingham",B37 5PL
+"117 - 119 Oxford Road, High Wycombe",HP11 2DN
+"4B Crofts End, Sherington",MK16 9NE
+"35 St Johns Crescent, Bristol",BS3 5EP
+"38 East Road, Longsight",M12 5QZ
+"1 The Chilterns, Leighton Buzzard",LU7 4QD
+"105 Sangley Road, London",SE6 2DX
+"9 Swallow Crescent, Innsworth",GL3 1BL
+"55 Langford Drive, Boldon Colliery",NE35 9LJ
+"2 Lexden Gardens, Hayling Island",PO11 0QP
+"34 Dean Street, Failsworth",M35 0DW
+"2 Whitechapel Close, Bolton",BL2 6NS
+"4 Newfield Close, Solihull",B91 2SH
+"8 Janmead, Hutton",CM13 2PU
+"9 Deyne Avenue, Prestwich",M25 1EJ
+"580 Retford Road, Sheffield",S13 9WF
+"Ty Derw, Montgomery",SY15 6HZ
+"43 Coachwell Close, Telford",TF3 2JB
+"97 Ivy Drive, Lightwater",GU18 5YT
+"The Mission House, Newmill",TR20 8XS
+"54 Melbourne Road, Eastbourne",BN22 8BB
+"87 Kendon Drive, Bristol",BS10 5BU
+"6 John Hall Way, High Wycombe",HP12 4SG
+"1 Springfield Road, Risca",NP11 6LY
+"10 Denholme, Skelmersdale",WN8 0AU
+"107 Wilton Road, Salisbury",SP2 7HU
+"The Tythe Barn, Lower Netley Farm, Netley",SY5 7JY
+"29 Ryecroft Avenue, Twickenham",TW2 6HH
+"4 Roslyn Court, Willen",MK15 9LA
+"34 Westfield Crescent, Brighton",BN1 8JB
+"120 Tiverton Road, London",N15 6RS
+"11 Merlin Close, Tonbridge",TN10 4JL
+"35 Heron Court, Bromley",BR2 9LR
+"Railway Station House, Harlech",LL46 2UF
+"15 Hazel Grove, Alsager",ST7 2PX
+"5 Cotes, 11A Southcote Road, Bournemouth",BH1 3FD
+"169 Beeston Road, Leeds",LS11 6AW
+"35 Dunbar Way, Ashby-De-La-Zouch",LE65 1AT
+"The Coach House, Mount Farm, Ashby De La Launde",LN4 3JJ
+"35 Fairwell Road, Stockton-On-Tees",TS19 7HT
+"24 Deards Wood, Knebworth",SG3 6PG
+"3 Highfield Avenue, Grimsby",DN32 0JD
+"Avalon Bungalow, Intervalley Road, Glynneath",SA11 5TU
+"11 Priory Road, Stone",ST15 8NS
+"25 St Lawrence Close, Bovingdon",HP3 0LS
+"Flat 1, Philip Houlden Court, Dagless Way, March",PE15 8AP
+"161 Stourvale Road, Bournemouth",BH6 5HQ
+"Flat 20, Glasfryn Court, Brickfields, Harrow",HA2 0NE
+"96 Leggatts Way, Watford",WD24 5NH
+"The Lodge, 20 Talbot Road, Prenton",CH43 2HH
+"Wendle Cottage, High Street, Moreton-In-Marsh",GL56 0AT
+"16 Blagdon Close, Darley Dale",DE4 2GW
+"26 Winchester Grove, Ince",WN3 4LQ
+"46 Eaton Square, Leeds",LS10 4SN
+"5 Bramble Walk, Tunbridge Wells",TN2 3PL
+"17 Akeman Street, Tring",HP23 6AA
+"Glyn Berwys, Talybont",LL43 2AA
+"Wynwood Rise, Perrancoombe",TR6 0HZ
+"22 Sandstone, 5 Kent Road, Richmond",TW9 3JJ
+"6 Hedworth Street, Chester Le Street",DH3 3EW
+"Little Willows, Winkfield Row, Winkfield Row",RG42 6LX
+"1 Chenies Bottom, Chenies",WD3 6EY
+"The Dwelling House, West Royalty Farm, Spilsby Road, Eastville",PE22 8LD
+"40 Flower Garden Drive, Nuneaton",CV10 0FW
+"23 Leeds Road, Rawdon",LS19 6DW
+"1 Green Acres, Wombourne",WV5 0BU
+"Sea View, Station Terrace, East Aberthaw",CF62 3DH
+"19 Arundel Way, Newquay",TR7 3BB
+"2 Orchil Close, Little Sutton",CH66 4YQ
+"14 Hurst Park, Horsham",RH12 2JA

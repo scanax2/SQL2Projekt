@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>820</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>91</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Table content:</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="table">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>50</y>
+     <width>631</width>
+     <height>401</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>10</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>12</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>13</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>14</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>PESEL</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>imię</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>nazwisko</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>płeć</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>adres</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>data_urodzenia</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>narodowość</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>telefon</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>data_rekrutacji</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>data_zakończenia</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>status</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>grupa_dziekańska</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>bieżące_punkty_ECTS</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>średnia_z_ocen</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>semestry_id_semestru</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>narodowość</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QComboBox" name="tableNameDropdown">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>50</y>
+     <width>121</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Studenci</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Pracownicy</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>30</y>
+     <width>91</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Select table:</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="backToMenuButton">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>390</y>
+     <width>121</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Back to menu</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="peselSearch">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>119</y>
+     <width>119</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="inputMask">
+    <string/>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="maxLength">
+    <number>6</number>
+   </property>
+   <property name="placeholderText">
+    <string>PESEL</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="surnameSearch">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>181</y>
+     <width>119</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="placeholderText">
+    <string>Nazwisko</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>98</y>
+     <width>119</width>
+     <height>10</height>
+    </rect>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>16777215</width>
+     <height>10</height>
+    </size>
+   </property>
+   <property name="text">
+    <string>Search:</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="nameSearch">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>150</y>
+     <width>119</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="placeholderText">
+    <string>Imię</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="conditionSearch">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>240</y>
+     <width>119</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="placeholderText">
+    <string>imie=Daniel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>220</y>
+     <width>119</width>
+     <height>10</height>
+    </rect>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>16777215</width>
+     <height>10</height>
+    </size>
+   </property>
+   <property name="text">
+    <string>WHERE condition:</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

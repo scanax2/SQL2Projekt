@@ -1,0 +1,5 @@
+Matematyka dyskretna : 5
+Algebra liniowa : 3
+Systemy baz danych : 4
+Systemy wbudowane : 6
+Algorytmy i struktury danych : 8
